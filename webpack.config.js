@@ -11,6 +11,7 @@ const name = camelCase(pkg.name);
 
 const exposes = {
   "./utils/log-hello": "./src/utils/log-hello.js",
+  "./utils/version": "./src/utils/version.js",
 };
 
 /** @type {webpack.Configuration} */

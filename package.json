@@ -1,6 +1,6 @@
 {
   "name": "versioned-federated-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/node/remote-entry.js",
   "browser": "dist/browser/remote-entry.js",
